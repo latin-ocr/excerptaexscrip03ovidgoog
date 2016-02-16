@@ -1,0 +1,21 @@
+' ERRATA,
+Pago ¹10, line 13, sorszus readTmus
+
+“ 96, “ 31, after fumo erasethecomma
+“ 114, “ 4, for palm read patent
+
+“ 122, “ 32, “ marimo “ Interimo
+‘⁶ 125, “ 32, “ ,orba “ Verba
+
+“ 133, ‘⁴ 10, ‘¹ ⁶⁷ “ 570
+
+“ 144, “ 32, α11ετηοετνωριι1αοοωωα
+“ 146, “ 24, sor ervis read nervis
+
+ιι 234, “ 44, τ’ mm τ· tm
+
+f‘ 240, “ 4, “- Metonomy reada'detonymy
+“. 261, “ 19, “ αριάἱέοη “ expedition
+
+ 
+
